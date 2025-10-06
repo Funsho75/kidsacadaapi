@@ -1,1 +1,793 @@
-{"data": [{"season": "2024 - 2025", "id": 354443, "result": "", "start_date": "2025-05-10T16:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Pau", "competition_name": "Ligue 2", "away_team": "Guingamp", "market": "classic", "competition_cluster": "France", "prediction": "2", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 3.12, "X": 3.907, "2": 2.025, "1X": 1.747, "X2": 1.343, "12": 1.245}}, {"season": "2024 - 2025", "id": 354479, "result": "", "start_date": "2025-05-10T17:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Elche", "competition_name": "Segunda Division", "away_team": "Levante", "market": "classic", "competition_cluster": "Spain", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.958, "X": 3.282, "2": 3.69, "1X": 1.248, "X2": 1.773, "12": 1.303}}, {"season": "2025", "id": 354557, "result": "", "start_date": "2025-05-10T16:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Riga FC", "competition_name": "Virsliga", "away_team": "FS Jelgava", "market": "classic", "competition_cluster": "Latvia", "prediction": "1", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.096, "X": 8.04, "2": 14.4, "1X": 1.013, "X2": 5.633, "12": 1.03}}, {"season": "2024 - 2025", "id": 354498, "result": "", "start_date": "2025-05-10T16:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Turan Tovuz", "competition_name": "Premier League", "away_team": "Neftchi Baku", "market": "classic", "competition_cluster": "Azerbaijan", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.047, "X": 3.253, "2": 3.135, "1X": 1.29, "X2": 1.645, "12": 1.258}}, {"season": "2024 - 2025", "id": 354541, "result": "", "start_date": "2025-05-10T18:30:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Paksi", "competition_name": "NB I", "away_team": "Ferencvarosi", "market": "classic", "competition_cluster": "Hungary", "prediction": "2", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 4.042, "X": 3.992, "2": 1.703, "1X": 2.034, "X2": 1.212, "12": 1.212}}, {"season": "2025 - First Stage", "id": 354690, "result": "", "start_date": "2025-05-10T19:00:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Macara Ambato", "competition_name": "Serie A", "away_team": "LDU de Quito", "market": "classic", "competition_cluster": "Ecuador", "prediction": "1X", "status": "pending", "federation": "CONMEBOL", "is_expired": false, "odds": {"1": 2.958, "X": 3.185, "2": 2.292, "1X": 1.563, "X2": 1.345, "12": 1.313}}, {"season": "2024 - 2025", "id": 354651, "result": "", "start_date": "2025-05-10T11:00:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Vorskla Poltava", "competition_name": "Premier League", "away_team": "Chernomorets Odesa", "market": "classic", "competition_cluster": "Ukraine", "prediction": "1", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.482, "X": 3.963, "2": 6.637, "1X": 1.095, "X2": 2.525, "12": 1.22}}, {"season": "2024 - 2025", "id": 354590, "result": "", "start_date": "2025-05-10T11:00:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Pacos Ferreira", "competition_name": "Liga Portugal 2", "away_team": "Felgueiras 1932", "market": "classic", "competition_cluster": "Portugal", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.232, "X": 3.22, "2": 2.952, "1X": 1.344, "X2": 1.598, "12": 1.298}}, {"season": "2024 - 2025", "id": 354596, "result": "", "start_date": "2025-05-10T12:30:00", "last_update_at": "2025-05-09T13:57:37.538741", "home_team": "FC Orenburg", "competition_name": "Premier League", "away_team": "FK Khimki", "market": "classic", "competition_cluster": "Russia", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.105, "X": 3.815, "2": 3.365, "1X": 1.34, "X2": 1.755, "12": 1.275}}, {"season": "2024 - 2025", "id": 354472, "result": "", "start_date": "2025-05-10T15:15:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Celta Vigo", "competition_name": "Primera Division", "away_team": "Sevilla", "market": "classic", "competition_cluster": "Spain", "prediction": "1", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.818, "X": 3.652, "2": 4.438, "1X": 1.198, "X2": 1.955, "12": 1.275}}, {"season": "2025", "id": 354622, "result": "", "start_date": "2025-05-10T16:30:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Sirius", "competition_name": "Allsvenskan", "away_team": "Hacken", "market": "classic", "competition_cluster": "Sweden", "prediction": "2", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.903, "X": 3.667, "2": 2.24, "1X": 1.618, "X2": 1.385, "12": 1.268}}, {"season": "2024 - 2025", "id": 354652, "result": "", "start_date": "2025-05-10T13:30:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Obolon Kiev", "competition_name": "Premier League", "away_team": "LNZ Cherkasy", "market": "classic", "competition_cluster": "Ukraine", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.755, "X": 2.725, "2": 2.868, "1X": 1.385, "X2": 1.42, "12": 1.41}}, {"season": "2024 - 2025", "id": 354598, "result": "", "start_date": "2025-05-10T17:30:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "CSKA Moskva", "competition_name": "Premier League", "away_team": "FK Krasnodar", "market": "classic", "competition_cluster": "Russia", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.94, "X": 3.415, "2": 2.48, "1X": 1.545, "X2": 1.42, "12": 1.325}}, {"season": "2024 - 2025", "id": 354512, "result": "", "start_date": "2025-05-10T18:00:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Levski Sofia", "competition_name": "Championship Group", "away_team": "Cherno more Varna", "market": "classic", "competition_cluster": "Bulgaria", "prediction": "1", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.585, "X": 3.738, "2": 5.405, "1X": 1.133, "X2": 2.257, "12": 1.24}}, {"season": "2024 - 2025", "id": 354599, "result": "", "start_date": "2025-05-10T08:00:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Yenisey Krasnoyarsk", "competition_name": "First League", "away_team": "Sokol Saratov", "market": "classic", "competition_cluster": "Russia", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.85, "X": 3.325, "2": 4.265, "1X": 1.19, "X2": 1.84, "12": 1.3}}, {"season": "2024 - 2025", "id": 354447, "result": "", "start_date": "2025-05-10T14:30:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Bochum", "competition_name": "Bundesliga", "away_team": "Mainz", "market": "classic", "competition_cluster": "Germany", "prediction": "2", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.96, "X": 3.673, "2": 2.275, "1X": 1.608, "X2": 1.385, "12": 1.273}}, {"season": "2025", "id": 354627, "result": "", "start_date": "2025-05-10T12:00:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Stockholm Internazionale", "competition_name": "Division 1", "away_team": "Sollentuna FK", "market": "classic", "competition_cluster": "Sweden", "prediction": "1", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.226, "X": 5.55, "2": 9.4, "1X": 1.033, "X2": 3.838, "12": 1.1}}, {"season": "2024 - 2025", "id": 354601, "result": "", "start_date": "2025-05-10T16:00:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Neftekhimik Nizhnekamsk", "competition_name": "First League", "away_team": "FC Sochi", "market": "classic", "competition_cluster": "Russia", "prediction": "2", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 5.205, "X": 3.375, "2": 1.7, "1X": 2.02, "X2": 1.13, "12": 1.275}}, {"season": "2025", "id": 354628, "result": "", "start_date": "2025-05-10T15:00:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Gefle", "competition_name": "Division 1", "away_team": "AFC Eskilstuna", "market": "classic", "competition_cluster": "Sweden", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.544, "X": 3.32, "2": 2.428, "1X": 1.467, "X2": 1.472, "12": 1.27}}, {"season": "2025", "id": 354499, "result": "", "start_date": "2025-05-10T13:00:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "FC Minsk", "competition_name": "Premier League", "away_team": "Arsenal Dzerzhinsk", "market": "classic", "competition_cluster": "Belarus", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.343, "X": 3.073, "2": 2.877, "1X": 1.363, "X2": 1.527, "12": 1.33}}, {"season": "2025", "id": 354633, "result": "", "start_date": "2025-05-10T15:00:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Ljungskile", "competition_name": "Division 1", "away_team": "Oskarshamns AIK", "market": "classic", "competition_cluster": "Sweden", "prediction": "1", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.484, "X": 3.97, "2": 5.592, "1X": 1.12, "X2": 2.35, "12": 1.205}}, {"season": "2025", "id": 354675, "result": "", "start_date": "2025-05-10T19:00:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Atletico Ottawa", "competition_name": "Premier League", "away_team": "Valour FC", "market": "classic", "competition_cluster": "Canada", "prediction": "1", "status": "pending", "federation": "CONCACAF", "is_expired": false, "odds": {"1": 1.31, "X": 4.4, "2": 8.988, "1X": 1.037, "X2": 3.03, "12": 1.16}}, {"season": "2025", "id": 354683, "result": "", "start_date": "2025-05-10T12:35:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Shandong Taishan", "competition_name": "Super League", "away_team": "Zhejiang Professional", "market": "classic", "competition_cluster": "China", "prediction": "1", "status": "pending", "federation": "AFC", "is_expired": false, "odds": {"1": 1.645, "X": 4.255, "2": 4.352, "1X": 1.192, "X2": 2.168, "12": 1.197}}, {"season": "2024 - 2025", "id": 354579, "result": "", "start_date": "2025-05-10T13:45:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Radomiak Radom", "competition_name": "Ekstraklasa", "away_team": "Pogon Szczecin", "market": "classic", "competition_cluster": "Poland", "prediction": "2", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.927, "X": 3.537, "2": 2.242, "1X": 1.595, "X2": 1.377, "12": 1.282}}, {"season": "2025", "id": 354634, "result": "", "start_date": "2025-05-10T15:00:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Skovde AIK", "competition_name": "Division 1", "away_team": "Ariana", "market": "classic", "competition_cluster": "Sweden", "prediction": "2", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.938, "X": 3.36, "2": 2.135, "1X": 1.663, "X2": 1.313, "12": 1.26}}, {"season": "2024 - 2025", "id": 354489, "result": "", "start_date": "2025-05-10T17:30:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Betis Deportivo Balompie", "competition_name": "Primera Division RFEF Group 2", "away_team": "Atletico Sanluqueno", "market": "classic", "competition_cluster": "Spain", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.088, "X": 3.058, "2": 3.294, "1X": 1.268, "X2": 1.633, "12": 1.3}}, {"season": "2024 - 2025", "id": 354571, "result": "", "start_date": "2025-05-10T16:30:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Mornar Bar", "competition_name": "Prva Liga", "away_team": "Sutjeska Niksic", "market": "classic", "competition_cluster": "Montenegro", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.563, "X": 2.93, "2": 2.637, "1X": 1.365, "X2": 1.385, "12": 1.305}}, {"season": "2024 - 2025", "id": 354561, "result": "", "start_date": "2025-05-10T17:00:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Progres Niedercorn", "competition_name": "National Division", "away_team": "Union Titus Petange", "market": "classic", "competition_cluster": "Luxembourg", "prediction": "1", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.38, "X": 4.46, "2": 6.047, "1X": 1.08, "X2": 2.51, "12": 1.13}}, {"season": "2024 - 2025", "id": 354584, "result": "", "start_date": "2025-05-10T18:30:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Ruch Chorzow", "competition_name": "First League", "away_team": "LKS Lodz", "market": "classic", "competition_cluster": "Poland", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.102, "X": 3.336, "2": 3.162, "1X": 1.298, "X2": 1.675, "12": 1.298}}, {"season": "2024 - 2025", "id": 354487, "result": "", "start_date": "2025-05-10T17:00:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "CD Alcoyano", "competition_name": "Primera Division RFEF Group 2", "away_team": "Intercity", "market": "classic", "competition_cluster": "Spain", "prediction": "1", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.418, "X": 4.01, "2": 6.434, "1X": 1.077, "X2": 2.517, "12": 1.183}}, {"season": "2024 - 2025", "id": 354450, "result": "", "start_date": "2025-05-10T14:30:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Werder Bremen", "competition_name": "Bundesliga", "away_team": "RB Leipzig", "market": "classic", "competition_cluster": "Germany", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.367, "X": 3.705, "2": 2.807, "1X": 1.418, "X2": 1.577, "12": 1.275}}, {"season": "2025 - Second Stage", "id": 354567, "result": "", "start_date": "2025-05-10T18:00:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Petrocub-Hincesti", "competition_name": "Super Liga", "away_team": "Zimbru Chisinau", "market": "classic", "competition_cluster": "Moldova", "prediction": "1", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.117, "X": 3.617, "2": 2.837, "1X": 1.355, "X2": 1.61, "12": 1.23}}, {"season": "2025", "id": 354632, "result": "", "start_date": "2025-05-10T15:00:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Husqvarna FF", "competition_name": "Division 1", "away_team": "Eskilsminne IF", "market": "classic", "competition_cluster": "Sweden", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.654, "X": 3.338, "2": 2.322, "1X": 1.55, "X2": 1.387, "12": 1.273}}, {"season": "2024 - 2025", "id": 354463, "result": "", "start_date": "2025-05-10T17:00:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Lazio", "competition_name": "Serie A", "away_team": "Juventus", "market": "classic", "competition_cluster": "Italy", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.462, "X": 3.197, "2": 3.025, "1X": 1.358, "X2": 1.528, "12": 1.35}}, {"season": "2024 - 2025", "id": 354600, "result": "", "start_date": "2025-05-10T16:00:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Arsenal Tula", "competition_name": "First League", "away_team": "Rodina Moskva", "market": "classic", "competition_cluster": "Russia", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.61, "X": 2.83, "2": 2.89, "1X": 1.37, "X2": 1.44, "12": 1.375}}, {"season": "2024 - 2025", "id": 354454, "result": "", "start_date": "2025-05-10T12:00:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Paderborn", "competition_name": "2. Bundesliga", "away_team": "Magdeburg", "market": "classic", "competition_cluster": "Germany", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.032, "X": 3.808, "2": 3.17, "1X": 1.333, "X2": 1.725, "12": 1.245}}, {"season": "2025", "id": 354784, "result": "", "start_date": "2025-05-10T13:00:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "CSKA Pamir Dushanbe", "competition_name": "Higher League", "away_team": "Istaravshan", "market": "classic", "competition_cluster": "Tajikistan", "prediction": "1", "status": "pending", "federation": "AFC", "is_expired": false, "odds": {"1": 1.62, "X": 3.8, "2": 4.82, "1X": 1.15, "X2": 2.2, "12": 1.22}}, {"season": "2024 - 2025", "id": 354474, "result": "", "start_date": "2025-05-10T17:30:00", "last_update_at": "2025-05-09T18:25:19.103213", "home_team": "Mallorca", "competition_name": "Primera Division", "away_team": "Valladolid", "market": "classic", "competition_cluster": "Spain", "prediction": "1", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.332, "X": 5.088, "2": 9.767, "1X": 1.055, "X2": 3.303, "12": 1.16}}, {"season": "2024 - 2025", "id": 354460, "result": "", "start_date": "2025-05-10T13:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Waldhof Mannheim", "competition_name": "3. Liga", "away_team": "Dynamo Dresden", "market": "classic", "competition_cluster": "Germany", "prediction": "2", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 3.107, "X": 3.315, "2": 2.175, "1X": 1.624, "X2": 1.32, "12": 1.306}}, {"season": "2024 - 2025", "id": 354477, "result": "", "start_date": "2025-05-10T15:15:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Sporting Gijon", "competition_name": "Segunda Division", "away_team": "Deportivo La Coruna", "market": "classic", "competition_cluster": "Spain", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.033, "X": 3.185, "2": 3.545, "1X": 1.258, "X2": 1.712, "12": 1.322}}, {"season": "2024 - 2025", "id": 354471, "result": "", "start_date": "2025-05-10T13:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Valencia", "competition_name": "Primera Division", "away_team": "Getafe", "market": "classic", "competition_cluster": "Spain", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.01, "X": 3.115, "2": 4.227, "1X": 1.215, "X2": 1.785, "12": 1.35}}, {"season": "2024 - 2025", "id": 354459, "result": "", "start_date": "2025-05-10T13:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Verl", "competition_name": "3. Liga", "away_team": "Munchen 1860", "market": "classic", "competition_cluster": "Germany", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.908, "X": 3.758, "2": 3.425, "1X": 1.274, "X2": 1.814, "12": 1.234}}, {"season": "2024 - 2025", "id": 354617, "result": "", "start_date": "2025-05-10T14:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Bravo Ljubljana", "competition_name": "1. SNL", "away_team": "NK Radomlje", "market": "classic", "competition_cluster": "Slovenia", "prediction": "1", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.602, "X": 3.69, "2": 4.87, "1X": 1.13, "X2": 2.205, "12": 1.237}}, {"season": "2024 - 2025", "id": 354422, "result": "", "start_date": "2025-05-10T15:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Fulham", "competition_name": "Premier League", "away_team": "Everton", "market": "classic", "competition_cluster": "England", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.855, "X": 3.543, "2": 4.413, "1X": 1.194, "X2": 1.926, "12": 1.288}}, {"season": "2024 - 2025", "id": 354473, "result": "", "start_date": "2025-05-10T17:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Girona", "competition_name": "Primera Division", "away_team": "Villarreal", "market": "classic", "competition_cluster": "Spain", "prediction": "2", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 3.183, "X": 3.732, "2": 2.133, "1X": 1.698, "X2": 1.343, "12": 1.267}}, {"season": "2024 - 2025", "id": 354587, "result": "", "start_date": "2025-05-10T18:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Benfica", "competition_name": "Primeira Liga", "away_team": "Sporting CP", "market": "classic", "competition_cluster": "Portugal", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.127, "X": 3.453, "2": 3.243, "1X": 1.317, "X2": 1.68, "12": 1.292}}, {"season": "2024 - 2025", "id": 354539, "result": "", "start_date": "2025-05-10T13:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Puskas Academy", "competition_name": "NB I", "away_team": "Debreceni", "market": "classic", "competition_cluster": "Hungary", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.788, "X": 3.667, "2": 3.902, "1X": 1.224, "X2": 1.926, "12": 1.25}}, {"season": "2025", "id": 354621, "result": "", "start_date": "2025-05-10T16:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "GAIS Goteborg", "competition_name": "Allsvenskan", "away_team": "IFK Varnamo", "market": "classic", "competition_cluster": "Sweden", "prediction": "1", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.722, "X": 3.642, "2": 4.745, "1X": 1.173, "X2": 2.055, "12": 1.265}}, {"season": "2024 - 2025", "id": 354516, "result": "", "start_date": "2025-05-10T18:45:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Dinamo Zagreb", "competition_name": "Prva HNL", "away_team": "Slaven Belupo", "market": "classic", "competition_cluster": "Croatia", "prediction": "1", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.19, "X": 6.3, "2": 12.25, "1X": 1.03, "X2": 4.138, "12": 1.1}}, {"season": "2025", "id": 354528, "result": "", "start_date": "2025-05-10T15:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "IFK Mariehamn", "competition_name": "Veikkausliiga", "away_team": "Inter Turku", "market": "classic", "competition_cluster": "Finland", "prediction": "2", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 7.683, "X": 4.758, "2": 1.35, "1X": 2.957, "X2": 1.07, "12": 1.162}}, {"season": "2025", "id": 354625, "result": "", "start_date": "2025-05-10T14:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Sundsvall", "competition_name": "Superettan", "away_team": "Vasteras", "market": "classic", "competition_cluster": "Sweden", "prediction": "2", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 3.545, "X": 3.417, "2": 1.963, "1X": 1.767, "X2": 1.273, "12": 1.285}}, {"season": "2025", "id": 354626, "result": "", "start_date": "2025-05-10T14:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Utsiktens", "competition_name": "Superettan", "away_team": "Falkenbergs", "market": "classic", "competition_cluster": "Sweden", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.578, "X": 3.275, "2": 2.567, "1X": 1.467, "X2": 1.452, "12": 1.312}}, {"season": "2024 - 2025", "id": 354442, "result": "", "start_date": "2025-05-10T16:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Paris FC", "competition_name": "Ligue 2", "away_team": "Ajaccio", "market": "classic", "competition_cluster": "France", "prediction": "1", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.442, "X": 4.393, "2": 6.683, "1X": 1.095, "X2": 2.718, "12": 1.203}}, {"season": "2024 - 2025", "id": 354595, "result": "", "start_date": "2025-05-10T15:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Hermannstadt", "competition_name": "Relegation Group", "away_team": "Politehnica Iasi", "market": "classic", "competition_cluster": "Romania", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.9, "X": 3.508, "2": 3.678, "1X": 1.25, "X2": 1.822, "12": 1.27}}, {"season": "2024 - 2025", "id": 354573, "result": "", "start_date": "2025-05-10T15:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "RKC Waalwijk", "competition_name": "Eredivisie", "away_team": "Heerenveen", "market": "classic", "competition_cluster": "Netherlands", "prediction": "2", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 3.35, "X": 3.853, "2": 2.002, "1X": 1.778, "X2": 1.303, "12": 1.247}}, {"season": "2024 - 2025", "id": 354618, "result": "", "start_date": "2025-05-10T16:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "NK Celje", "competition_name": "1. SNL", "away_team": "FC Koper", "market": "classic", "competition_cluster": "Slovenia", "prediction": "1", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.686, "X": 3.78, "2": 4.172, "1X": 1.18, "X2": 2.053, "12": 1.23}}, {"season": "2025", "id": 354556, "result": "", "start_date": "2025-05-10T14:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Grobinas SC", "competition_name": "Virsliga", "away_team": "FK Liepaja", "market": "classic", "competition_cluster": "Latvia", "prediction": "2", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 4.742, "X": 3.894, "2": 1.556, "1X": 2.215, "X2": 1.148, "12": 1.202}}, {"season": "2024 - 2025", "id": 354540, "result": "", "start_date": "2025-05-10T16:45:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "MTK Budapest", "competition_name": "NB I", "away_team": "Kecskemeti", "market": "classic", "competition_cluster": "Hungary", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.888, "X": 3.55, "2": 3.627, "1X": 1.254, "X2": 1.832, "12": 1.258}}, {"season": "2024 - 2025", "id": 354461, "result": "", "start_date": "2025-05-10T15:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Ingolstadt", "competition_name": "3. Liga", "away_team": "Wehen Wiesbaden", "market": "classic", "competition_cluster": "Germany", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.11, "X": 3.717, "2": 2.928, "1X": 1.368, "X2": 1.662, "12": 1.236}}, {"season": "2024 - 2025", "id": 354559, "result": "", "start_date": "2025-05-10T16:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Wiltz 71", "competition_name": "National Division", "away_team": "Differdange FC", "market": "classic", "competition_cluster": "Luxembourg", "prediction": "2", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 6.79, "X": 4.467, "2": 1.357, "1X": 2.66, "X2": 1.04, "12": 1.14}}, {"season": "2024 - 2025", "id": 354508, "result": "", "start_date": "2025-05-10T14:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Zeljeznicar Sarajevo", "competition_name": "Premier League", "away_team": "Sloga Doboj", "market": "classic", "competition_cluster": "Bosnia and Herzegovina", "prediction": "1", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.543, "X": 4.003, "2": 5.04, "1X": 1.11, "X2": 2.27, "12": 1.19}}, {"season": "2024 - 2025", "id": 354647, "result": "", "start_date": "2025-05-10T14:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Sakaryaspor", "competition_name": "TFF First League", "away_team": "Esenler Erokspor", "market": "classic", "competition_cluster": "Turkey", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.347, "X": 2.287, "2": 4.14, "1X": 1.188, "X2": 1.52, "12": 1.543}}, {"season": "2024 - 2025", "id": 354439, "result": "", "start_date": "2025-05-10T16:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Bastia", "competition_name": "Ligue 2", "away_team": "Caen", "market": "classic", "competition_cluster": "France", "prediction": "1", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.495, "X": 4.41, "2": 5.7, "1X": 1.13, "X2": 2.548, "12": 1.2}}, {"season": "2024 - 2025", "id": 354641, "result": "", "start_date": "2025-05-10T17:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Trabzonspor", "competition_name": "Super Lig", "away_team": "Galatasaray", "market": "classic", "competition_cluster": "Turkey", "prediction": "2", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 4.017, "X": 4.39, "2": 1.685, "1X": 2.1, "X2": 1.225, "12": 1.202}}, {"season": "2024 - 2025", "id": 354425, "result": "", "start_date": "2025-05-10T15:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Wolverhampton", "competition_name": "Premier League", "away_team": "Brighton", "market": "classic", "competition_cluster": "England", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.732, "X": 3.49, "2": 2.517, "1X": 1.505, "X2": 1.442, "12": 1.292}}, {"season": "2024 - 2025", "id": 354568, "result": "", "start_date": "2025-05-10T16:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Bokelj Kotor", "competition_name": "Prva Liga", "away_team": "Arsenal Tivat", "market": "classic", "competition_cluster": "Montenegro", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.593, "X": 2.85, "2": 2.647, "1X": 1.355, "X2": 1.385, "12": 1.31}}, {"season": "2024 - 2025", "id": 354440, "result": "", "start_date": "2025-05-10T16:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Lavallois", "competition_name": "Ligue 2", "away_team": "Metz", "market": "classic", "competition_cluster": "France", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.108, "X": 3.758, "2": 3.012, "1X": 1.36, "X2": 1.695, "12": 1.252}}, {"season": "2024 - 2025", "id": 354441, "result": "", "start_date": "2025-05-10T16:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Lorient", "competition_name": "Ligue 2", "away_team": "Martigues", "market": "classic", "competition_cluster": "France", "prediction": "1", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.53, "X": 3.958, "2": 6.1, "1X": 1.112, "X2": 2.452, "12": 1.23}}, {"season": "2024 - 2025", "id": 354488, "result": "", "start_date": "2025-05-10T17:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Yeclano Deportivo", "competition_name": "Primera Division RFEF Group 2", "away_team": "Villarreal B", "market": "classic", "competition_cluster": "Spain", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.172, "X": 2.994, "2": 3.122, "1X": 1.29, "X2": 1.577, "12": 1.317}}, {"season": "2024 - 2025", "id": 354592, "result": "", "start_date": "2025-05-10T18:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Chaves", "competition_name": "Liga Portugal 2", "away_team": "Uniao Leiria", "market": "classic", "competition_cluster": "Portugal", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.22, "X": 3.194, "2": 3.032, "1X": 1.34, "X2": 1.602, "12": 1.306}}, {"season": "2024 - 2025", "id": 354456, "result": "", "start_date": "2025-05-10T13:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Alemannia Aachen", "competition_name": "3. Liga", "away_team": "Saarbrucken", "market": "classic", "competition_cluster": "Germany", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.857, "X": 3.133, "2": 2.395, "1X": 1.514, "X2": 1.38, "12": 1.322}}, {"season": "2024 - 2025", "id": 354640, "result": "", "start_date": "2025-05-10T14:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Konyaspor", "competition_name": "Super Lig", "away_team": "Caykur Rizespor", "market": "classic", "competition_cluster": "Turkey", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.178, "X": 3.27, "2": 3.273, "1X": 1.322, "X2": 1.652, "12": 1.327}}, {"season": "2024 - 2025", "id": 354649, "result": "", "start_date": "2025-05-10T14:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Umraniyespor", "competition_name": "TFF First League", "away_team": "Manisa FK", "market": "classic", "competition_cluster": "Turkey", "prediction": "2", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 5.173, "X": 4.2, "2": 1.467, "1X": 2.447, "X2": 1.12, "12": 1.182}}, {"season": "2025", "id": 354624, "result": "", "start_date": "2025-05-10T14:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Oddevold", "competition_name": "Superettan", "away_team": "Orebro", "market": "classic", "competition_cluster": "Sweden", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.988, "X": 3.437, "2": 3.432, "1X": 1.28, "X2": 1.76, "12": 1.287}}, {"season": "2025", "id": 354682, "result": "", "start_date": "2025-05-10T12:35:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Meizhou Hakka", "competition_name": "Super League", "away_team": "Chengdu Rongcheng", "market": "classic", "competition_cluster": "China", "prediction": "2", "status": "pending", "federation": "AFC", "is_expired": false, "odds": {"1": 6.693, "X": 4.797, "2": 1.4, "1X": 2.775, "X2": 1.093, "12": 1.162}}, {"season": "2024 - 2025", "id": 354493, "result": "", "start_date": "2025-05-10T13:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "SV Lafnitz", "competition_name": "Second League", "away_team": "SKU Amstetten", "market": "classic", "competition_cluster": "Austria", "prediction": "2", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 3.61, "X": 3.98, "2": 1.8, "1X": 1.942, "X2": 1.235, "12": 1.21}}, {"season": "2024 - 2025", "id": 354569, "result": "", "start_date": "2025-05-10T16:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Jedinstvo Bijelo Polje", "competition_name": "Prva Liga", "away_team": "OFK Petrovac", "market": "classic", "competition_cluster": "Montenegro", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.27, "X": 3.233, "2": 2.777, "1X": 1.355, "X2": 1.455, "12": 1.255}}, {"season": "2024 - 2025", "id": 354593, "result": "", "start_date": "2025-05-10T18:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Universitatea Craiova", "competition_name": "Championship Group", "away_team": "CFR Cluj", "market": "classic", "competition_cluster": "Romania", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.47, "X": 3.275, "2": 2.715, "1X": 1.422, "X2": 1.505, "12": 1.312}}, {"season": "2025", "id": 354527, "result": "", "start_date": "2025-05-10T13:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "KuPS Kuopio", "competition_name": "Veikkausliiga", "away_team": "KTP Kotka", "market": "classic", "competition_cluster": "Finland", "prediction": "1", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.268, "X": 5.358, "2": 9.158, "1X": 1.05, "X2": 3.48, "12": 1.128}}, {"season": "2024 - 2025", "id": 354426, "result": "", "start_date": "2025-05-10T17:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Bournemouth", "competition_name": "Premier League", "away_team": "Aston Villa", "market": "classic", "competition_cluster": "England", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.41, "X": 3.645, "2": 2.777, "1X": 1.438, "X2": 1.547, "12": 1.278}}, {"season": "2024 - 2025", "id": 354478, "result": "", "start_date": "2025-05-10T17:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Burgos CF", "competition_name": "Segunda Division", "away_team": "Cordoba", "market": "classic", "competition_cluster": "Spain", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.388, "X": 3.087, "2": 2.938, "1X": 1.363, "X2": 1.52, "12": 1.34}}, {"season": "2024 - 2025", "id": 354457, "result": "", "start_date": "2025-05-10T13:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Erzgebirge Aue", "competition_name": "3. Liga", "away_team": "Sandhausen", "market": "classic", "competition_cluster": "Germany", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.842, "X": 3.79, "2": 3.623, "1X": 1.258, "X2": 1.892, "12": 1.228}}, {"season": "2024 - 2025", "id": 354424, "result": "", "start_date": "2025-05-10T15:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Southampton", "competition_name": "Premier League", "away_team": "Manchester City", "market": "classic", "competition_cluster": "England", "prediction": "2", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 14.25, "X": 7.842, "2": 1.177, "1X": 4.85, "X2": 1.03, "12": 1.082}}, {"season": "2024 - 2025", "id": 354438, "result": "", "start_date": "2025-05-10T16:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Annecy", "competition_name": "Ligue 2", "away_team": "Grenoble Foot 38", "market": "classic", "competition_cluster": "France", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.972, "X": 3.433, "2": 3.67, "1X": 1.26, "X2": 1.805, "12": 1.3}}, {"season": "2024 - 2025", "id": 354570, "result": "", "start_date": "2025-05-10T16:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Jezero Plav", "competition_name": "Prva Liga", "away_team": "Decic Tuzi", "market": "classic", "competition_cluster": "Montenegro", "prediction": "2", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 3.417, "X": 2.87, "2": 2.16, "1X": 1.54, "X2": 1.24, "12": 1.305}}, {"season": "2024 - 2025", "id": 354659, "result": "", "start_date": "2025-05-10T16:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "USM Khenchela", "competition_name": "Championnat National", "away_team": "MC Oran", "market": "classic", "competition_cluster": "Algeria", "prediction": "1", "status": "pending", "federation": "CAF", "is_expired": false, "odds": {"1": 1.754, "X": 3.234, "2": 4.304, "1X": 1.168, "X2": 1.932, "12": 1.28}}, {"season": "2024 - 2025", "id": 354580, "result": "", "start_date": "2025-05-10T16:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Zaglebie Lubin", "competition_name": "Ekstraklasa", "away_team": "Widzew Lodz", "market": "classic", "competition_cluster": "Poland", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.22, "X": 3.423, "2": 3.033, "1X": 1.352, "X2": 1.625, "12": 1.287}}, {"season": "2024 - 2025", "id": 354574, "result": "", "start_date": "2025-05-10T17:45:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Fortuna Sittard", "competition_name": "Eredivisie", "away_team": "NAC Breda", "market": "classic", "competition_cluster": "Netherlands", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.967, "X": 3.482, "2": 3.825, "1X": 1.243, "X2": 1.802, "12": 1.292}}, {"season": "2024 - 2025", "id": 354585, "result": "", "start_date": "2025-05-10T15:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Nacional", "competition_name": "Primeira Liga", "away_team": "Rio Ave", "market": "classic", "competition_cluster": "Portugal", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.942, "X": 3.53, "2": 3.747, "1X": 1.25, "X2": 1.823, "12": 1.275}}, {"season": "2024 - 2025", "id": 354510, "result": "", "start_date": "2025-05-10T17:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "FK Sarajevo", "competition_name": "Premier League", "away_team": "Siroki Brijeg", "market": "classic", "competition_cluster": "Bosnia and Herzegovina", "prediction": "1", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.462, "X": 4.08, "2": 5.47, "1X": 1.11, "X2": 2.447, "12": 1.19}}, {"season": "2024 - 2025", "id": 354653, "result": "", "start_date": "2025-05-10T16:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Rukh Lviv", "competition_name": "Premier League", "away_team": "Veres Rivne", "market": "classic", "competition_cluster": "Ukraine", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.987, "X": 3.217, "2": 3.787, "1X": 1.237, "X2": 1.765, "12": 1.31}}, {"season": "2024 - 2025", "id": 354446, "result": "", "start_date": "2025-05-10T16:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Troyes", "competition_name": "Ligue 2", "away_team": "Amiens", "market": "classic", "competition_cluster": "France", "prediction": "1", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.545, "X": 4.15, "2": 5.458, "1X": 1.138, "X2": 2.385, "12": 1.217}}, {"season": "2025", "id": 354524, "result": "", "start_date": "2025-05-10T12:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Kuressaare", "competition_name": "Meistriliiga", "away_team": "JK Tallinna Kalev", "market": "classic", "competition_cluster": "Estonia", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.002, "X": 3.556, "2": 3.038, "1X": 1.298, "X2": 1.73, "12": 1.25}}, {"season": "2024 - 2025", "id": 354583, "result": "", "start_date": "2025-05-10T16:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Pogon Siedlce", "competition_name": "First League", "away_team": "Miedz Legnica", "market": "classic", "competition_cluster": "Poland", "prediction": "2", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 3.552, "X": 3.506, "2": 1.9, "1X": 1.822, "X2": 1.232, "12": 1.278}}, {"season": "2024 - 2025", "id": 354451, "result": "", "start_date": "2025-05-10T17:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Bayern Munchen", "competition_name": "Bundesliga", "away_team": "Borussia M'gladbach", "market": "classic", "competition_cluster": "Germany", "prediction": "1", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.173, "X": 9.3, "2": 11.767, "1X": 1.035, "X2": 5.067, "12": 1.058}}, {"season": "2024 - 2025", "id": 354591, "result": "", "start_date": "2025-05-10T14:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Oliveirense", "competition_name": "Liga Portugal 2", "away_team": "Maritimo", "market": "classic", "competition_cluster": "Portugal", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.236, "X": 3.314, "2": 2.872, "1X": 1.358, "X2": 1.578, "12": 1.294}}, {"season": "2025", "id": 354555, "result": "", "start_date": "2025-05-10T15:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Astana", "competition_name": "Premier League", "away_team": "Tobol Kostanay", "market": "classic", "competition_cluster": "Kazakhstan", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.82, "X": 3.395, "2": 3.94, "1X": 1.217, "X2": 1.843, "12": 1.27}}, {"season": "2024 - 2025", "id": 354445, "result": "", "start_date": "2025-05-10T16:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Rodez AF", "competition_name": "Ligue 2", "away_team": "Clermont Foot", "market": "classic", "competition_cluster": "France", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.618, "X": 3.567, "2": 2.442, "1X": 1.533, "X2": 1.46, "12": 1.277}}, {"season": "2024 - 2025", "id": 354453, "result": "", "start_date": "2025-05-10T12:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Fortuna Dusseldorf", "competition_name": "2. Bundesliga", "away_team": "Schalke 04", "market": "classic", "competition_cluster": "Germany", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.822, "X": 4.18, "2": 3.628, "1X": 1.267, "X2": 1.938, "12": 1.212}}, {"season": "2024 - 2025", "id": 354586, "result": "", "start_date": "2025-05-10T15:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Santa Clara", "competition_name": "Primeira Liga", "away_team": "Famalicao", "market": "classic", "competition_cluster": "Portugal", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.142, "X": 3.107, "2": 3.647, "1X": 1.265, "X2": 1.68, "12": 1.345}}, {"season": "2024 - 2025", "id": 354515, "result": "", "start_date": "2025-05-10T16:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "HNK Sibenik", "competition_name": "Prva HNL", "away_team": "HNK Rijeka", "market": "classic", "competition_cluster": "Croatia", "prediction": "2", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 5.448, "X": 3.612, "2": 1.597, "1X": 2.237, "X2": 1.125, "12": 1.257}}, {"season": "2025", "id": 354501, "result": "", "start_date": "2025-05-10T17:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "BATE Borisov", "competition_name": "Premier League", "away_team": "Dinamo Brest", "market": "classic", "competition_cluster": "Belarus", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.947, "X": 3.077, "2": 2.35, "1X": 1.537, "X2": 1.36, "12": 1.33}}, {"season": "2024 - 2025", "id": 354742, "result": "", "start_date": "2025-05-10T12:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "SHB Da Nang", "competition_name": "V.League 1", "away_team": "Binh Dinh", "market": "classic", "competition_cluster": "Vietnam", "prediction": "1X", "status": "pending", "federation": "AFC", "is_expired": false, "odds": {"1": 2.547, "X": 3.04, "2": 2.543, "1X": 1.425, "X2": 1.428, "12": 1.297}}, {"season": "2024 - 2025", "id": 354497, "result": "", "start_date": "2025-05-10T14:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Sabail Baku", "competition_name": "Premier League", "away_team": "Zira Baku", "market": "classic", "competition_cluster": "Azerbaijan", "prediction": "2", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 4.883, "X": 3.447, "2": 1.633, "1X": 2.075, "X2": 1.133, "12": 1.235}}, {"season": "2024 - 2025", "id": 354476, "result": "", "start_date": "2025-05-10T15:15:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Mirandes", "competition_name": "Segunda Division", "away_team": "Castellon", "market": "classic", "competition_cluster": "Spain", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.923, "X": 3.448, "2": 3.668, "1X": 1.245, "X2": 1.802, "12": 1.275}}, {"season": "2024 - 2025", "id": 354458, "result": "", "start_date": "2025-05-10T13:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Hansa Rostock", "competition_name": "3. Liga", "away_team": "Energie Cottbus", "market": "classic", "competition_cluster": "Germany", "prediction": "1X", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.825, "X": 3.715, "2": 3.81, "1X": 1.234, "X2": 1.9, "12": 1.236}}, {"season": "2025", "id": 354525, "result": "", "start_date": "2025-05-10T15:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Tartu Tammeka", "competition_name": "Meistriliiga", "away_team": "Nomme Kalju", "market": "classic", "competition_cluster": "Estonia", "prediction": "2", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 5.295, "X": 4.466, "2": 1.43, "1X": 2.545, "X2": 1.117, "12": 1.168}}, {"season": "2024 - 2025", "id": 354492, "result": "", "start_date": "2025-05-10T13:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Kapfenberg", "competition_name": "Second League", "away_team": "SV Stripfing", "market": "classic", "competition_cluster": "Austria", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.332, "X": 3.52, "2": 2.68, "1X": 1.418, "X2": 1.535, "12": 1.265}}, {"season": "2024 - 2025", "id": 354491, "result": "", "start_date": "2025-05-10T15:30:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Shirak", "competition_name": "Premier League", "away_team": "Alashkert", "market": "classic", "competition_cluster": "Armenia", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.003, "X": 3.153, "2": 3.383, "1X": 1.235, "X2": 1.68, "12": 1.275}}, {"season": "2024 - 2025", "id": 354509, "result": "", "start_date": "2025-05-10T15:00:00", "last_update_at": "2025-05-09T22:12:18.234406", "home_team": "Zrinjski Mostar", "competition_name": "Premier League", "away_team": "Radnik Bijeljina", "market": "classic", "competition_cluster": "Bosnia and Herzegovina", "prediction": "1", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 1.122, "X": 6.75, "2": 16.75, "1X": 1.013, "X2": 4.867, "12": 1.067}}, {"season": "2024 - 2025", "id": 354716, "result": "", "start_date": "2025-05-10T19:00:00", "last_update_at": "2025-05-10T02:20:57.213164", "home_team": "Al-Khaleej Saihat", "competition_name": "Professional League", "away_team": "Al-Riyadh", "market": "classic", "competition_cluster": "Saudi Arabia", "prediction": "1X", "status": "pending", "federation": "AFC", "is_expired": false, "odds": {"1": 2.153, "X": 3.608, "2": 2.943, "1X": 1.358, "X2": 1.632, "12": 1.252}}, {"season": "2025", "id": 354721, "result": "", "start_date": "2025-05-10T11:00:00", "last_update_at": "2025-05-10T02:20:57.213164", "home_team": "Daejeon Hana Citizen", "competition_name": "K League 1", "away_team": "FC Seoul", "market": "classic", "competition_cluster": "South Korea", "prediction": "12", "status": "pending", "federation": "AFC", "is_expired": false, "odds": {"1": 2.888, "X": 3.237, "2": 2.358, "1X": 1.543, "X2": 1.383, "12": 1.32}}, {"season": "2024 - 2025", "id": 354743, "result": "", "start_date": "2025-05-10T12:00:00", "last_update_at": "2025-05-10T02:20:57.213164", "home_team": "Song Lam Nghe An", "competition_name": "V.League 1", "away_team": "Ha Noi FC", "market": "classic", "competition_cluster": "Vietnam", "prediction": "2", "status": "pending", "federation": "AFC", "is_expired": false, "odds": {"1": 5.65, "X": 3.828, "2": 1.48, "1X": 2.372, "X2": 1.09, "12": 1.197}}, {"season": "2025", "id": 354736, "result": "", "start_date": "2025-05-10T14:00:00", "last_update_at": "2025-05-10T02:20:57.213164", "home_team": "Kokand 1912", "competition_name": "Super League", "away_team": "AGMK Olmaliq", "market": "classic", "competition_cluster": "Uzbekistan", "prediction": "2", "status": "pending", "federation": "AFC", "is_expired": false, "odds": {"1": 4.523, "X": 3.147, "2": 1.793, "1X": 1.87, "X2": 1.16, "12": 1.29}}, {"season": "2024 - 2025", "id": 354767, "result": "", "start_date": "2025-05-10T16:00:00", "last_update_at": "2025-05-10T02:20:57.213164", "home_team": "NC Magra", "competition_name": "Championnat National", "away_team": "ASO Chlef", "market": "classic", "competition_cluster": "Algeria", "prediction": "1", "status": "pending", "federation": "CAF", "is_expired": false, "odds": {"1": 1.808, "X": 3.186, "2": 4.346, "1X": 1.182, "X2": 1.904, "12": 1.29}}, {"season": "2024 - 2025", "id": 354718, "result": "", "start_date": "2025-05-10T11:00:00", "last_update_at": "2025-05-10T02:20:57.213164", "home_team": "Tanjong Pagar", "competition_name": "Premier League", "away_team": "Lion City Sailors", "market": "classic", "competition_cluster": "Singapore", "prediction": "2", "status": "pending", "federation": "AFC", "is_expired": false, "odds": {"1": 32.167, "X": 14.833, "2": 1.025, "1X": 11.75, "X2": 1.008, "12": 1.028}}, {"season": "2025", "id": 354726, "result": "", "start_date": "2025-05-10T11:00:00", "last_update_at": "2025-05-10T02:20:57.213164", "home_team": "Seoul E-Land", "competition_name": "K League 2", "away_team": "Ansan Greeners", "market": "classic", "competition_cluster": "South Korea", "prediction": "1", "status": "pending", "federation": "AFC", "is_expired": false, "odds": {"1": 1.37, "X": 4.447, "2": 6.467, "1X": 1.08, "X2": 2.794, "12": 1.156}}, {"season": "2024 - 2025", "id": 354717, "result": "", "start_date": "2025-05-10T11:00:00", "last_update_at": "2025-05-10T02:20:57.213164", "home_team": "Tampines Rovers", "competition_name": "Premier League", "away_team": "Young Lions", "market": "classic", "competition_cluster": "Singapore", "prediction": "1", "status": "pending", "federation": "AFC", "is_expired": false, "odds": {"1": 1.055, "X": 11.533, "2": 20.083, "1X": 1.01, "X2": 8.012, "12": 1.04}}, {"season": "2024 - 2025", "id": 354692, "result": "", "start_date": "2025-05-10T09:30:00", "last_update_at": "2025-05-10T02:20:57.213164", "home_team": "Madura United", "competition_name": "Liga 1", "away_team": "Borneo Samarinda", "market": "classic", "competition_cluster": "Indonesia", "prediction": "2", "status": "pending", "federation": "AFC", "is_expired": false, "odds": {"1": 2.808, "X": 3.236, "2": 2.214, "1X": 1.56, "X2": 1.358, "12": 1.284}}, {"season": "2024 - 2025", "id": 354730, "result": "", "start_date": "2025-05-10T15:00:00", "last_update_at": "2025-05-10T02:20:57.213164", "home_team": "EGS Gafsa", "competition_name": "Ligue Professionnelle 1", "away_team": "AS Gabes", "market": "classic", "competition_cluster": "Tunisia", "prediction": "12", "status": "pending", "federation": "CAF", "is_expired": false, "odds": {"1": 2.207, "X": 3.015, "2": 3.045, "1X": 1.303, "X2": 1.547, "12": 1.3}}, {"season": "2024 - 2025", "id": 354694, "result": "", "start_date": "2025-05-10T13:00:00", "last_update_at": "2025-05-10T02:20:57.213164", "home_team": "Persija Jakarta", "competition_name": "Liga 1", "away_team": "Bali United", "market": "classic", "competition_cluster": "Indonesia", "prediction": "1X", "status": "pending", "federation": "AFC", "is_expired": false, "odds": {"1": 1.938, "X": 3.406, "2": 3.258, "1X": 1.276, "X2": 1.746, "12": 1.258}}, {"season": "2024 - 2025", "id": 354764, "result": "", "start_date": "2025-05-10T14:00:00", "last_update_at": "2025-05-10T02:20:57.213164", "home_team": "Chernomorets Novorossiysk", "competition_name": "First League", "away_team": "Baltika Kaliningrad", "market": "classic", "competition_cluster": "Russia", "prediction": "12", "status": "pending", "federation": "UEFA", "is_expired": false, "odds": {"1": 2.46, "X": 3.02, "2": 2.92, "1X": 1.365, "X2": 1.48, "12": 1.33}}, {"season": "2024 - 2025", "id": 354715, "result": "", "start_date": "2025-05-10T17:25:00", "last_update_at": "2025-05-10T02:20:57.213164", "home_team": "Al-Wehda Mecca", "competition_name": "Professional League", "away_team": "Al-Fateh SC", "market": "classic", "competition_cluster": "Saudi Arabia", "prediction": "2", "status": "pending", "federation": "AFC", "is_expired": false, "odds": {"1": 3.46, "X": 3.853, "2": 1.873, "1X": 1.814, "X2": 1.266, "12": 1.222}}, {"season": "2025", "id": 354740, "result": "", "start_date": "2025-05-10T16:15:00", "last_update_at": "2025-05-10T02:20:57.213164", "home_team": "Pakhtakor Tashkent", "competition_name": "Super League", "away_team": "Buxoro FK", "market": "classic", "competition_cluster": "Uzbekistan", "prediction": "1", "status": "pending", "federation": "AFC", "is_expired": false, "odds": {"1": 1.323, "X": 4.413, "2": 8.733, "1X": 1.035, "X2": 2.94, "12": 1.155}}, {"season": "2025", "id": 354720, "result": "", "start_date": "2025-05-10T08:30:00", "last_update_at": "2025-05-10T02:20:57.213164", "home_team": "Pohang Steelers", "competition_name": "K League 1", "away_team": "Suwon FC", "market": "classic", "competition_cluster": "South Korea", "prediction": "12", "status": "pending", "federation": "AFC", "is_expired": false, "odds": {"1": 2.107, "X": 3.372, "2": 3.232, "1X": 1.32, "X2": 1.677, "12": 1.293}}, {"season": "2025", "id": 354724, "result": "", "start_date": "2025-05-10T08:30:00", "last_update_at": "2025-05-10T02:20:57.213164", "home_team": "Gyeongnam FC", "competition_name": "K League 2", "away_team": "Bucheon FC 1995", "market": "classic", "competition_cluster": "South Korea", "prediction": "2", "status": "pending", "federation": "AFC", "is_expired": false, "odds": {"1": 2.845, "X": 3.248, "2": 2.232, "1X": 1.562, "X2": 1.362, "12": 1.285}}, {"season": "2025 - Apertura", "id": 354711, "result": "", "start_date": "2025-05-10T18:00:00", "last_update_at": "2025-05-10T02:20:57.213164", "home_team": "Ayacucho FC", "competition_name": "Liga 1", "away_team": "Sporting Cristal", "market": "classic", "competition_cluster": "Peru", "prediction": "12", "status": "pending", "federation": "CONMEBOL", "is_expired": false, "odds": {"1": 2.732, "X": 3.388, "2": 2.323, "1X": 1.535, "X2": 1.402, "12": 1.28}}, {"season": "2025", "id": 354738, "result": "", "start_date": "2025-05-10T15:00:00", "last_update_at": "2025-05-10T02:20:57.213164", "home_team": "Nasaf Qarshi", "competition_name": "Super League", "away_team": "Bunyodkor Tashkent", "market": "classic", "competition_cluster": "Uzbekistan", "prediction": "1", "status": "pending", "federation": "AFC", "is_expired": false, "odds": {"1": 1.77, "X": 2.89, "2": 5.417, "1X": 1.115, "X2": 1.885, "12": 1.33}}]}
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Xrmf9tsi5uUZv4t7F8ti6aI_Ha8",
+  "regionCode": "NG",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 23
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XrbMlOcxYyhcCH7nE84dJ4z7vyA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "d4sXbpFEBVs"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-26T12:30:45Z",
+        "channelId": "UCOk08YPK5JWBOifY5y7MXMQ",
+        "title": "【Hindi Dubbed】The Golden Emperor । Part 01। Chinese Drama Hindi - Mini Drama Hindi",
+        "description": "【Hindi Dubbed】The Golden Emperor । Part 01। Chinese Drama Hindi - Mini Drama Hindi Welcome to another exciting ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d4sXbpFEBVs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d4sXbpFEBVs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d4sXbpFEBVs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mini Drama Hindi ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-26T12:30:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2waH-x8sE-DlmT69SziyhYpo7YU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Gzi_sx5Yg3U"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-05T00:02:35Z",
+        "channelId": "UCRHYmKJZC1Bn1lJXGuLOC4g",
+        "title": "[ENG SUB] My Only Love | Full #drama #billionaire #mustwatch #shortdrama #Minidrama",
+        "description": "Subscribe and enjoy the best of C-Dramas, one episode at a time! Welcome to ShortDramaTime! Your go-to spot for the best ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gzi_sx5Yg3U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gzi_sx5Yg3U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gzi_sx5Yg3U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DramaTime",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-05T00:02:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OusNTa83vqwWE6jWab2GwC1S6R4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rTyDkvAWJiA"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-09T10:30:29Z",
+        "channelId": "UCJaHaax1s0G2BTycmfw7vMw",
+        "title": "For 8 Million Poor Girl Marries a Stranger but Finds Out He’s a Young Handsome CEO &amp; Her First Love!",
+        "description": "For more wonderful vedios, please click： https://www.youtube.com/channel/UCJaHaax1s0G2BTycmfw7vMw/join Full English ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rTyDkvAWJiA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rTyDkvAWJiA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rTyDkvAWJiA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": " LiLi Drama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-09T10:30:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vaF-dEGSXcu6yxkhkrHsm-1_vH0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s9X684jEARo"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-08T16:01:41Z",
+        "channelId": "UCRHYmKJZC1Bn1lJXGuLOC4g",
+        "title": "[ENG  SUB] Dumped the Jerk, Married the Man He Fears | FULL #Minidrama",
+        "description": "Subscribe and enjoy the best of C-Dramas, one episode at a time! Welcome to ShortDramaTime! Your go-to spot for the best ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s9X684jEARo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s9X684jEARo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s9X684jEARo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DramaTime",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-08T16:01:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XRxrbU_n_fzMpscWAuxp86GARBw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v3lA1zLULcM"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-12T12:31:10Z",
+        "channelId": "UCOk08YPK5JWBOifY5y7MXMQ",
+        "title": "【Hindi Dubbed】The CEO&#39;s Hidden Past (Complete Season)। Chinese Drama Hindi - Mini Drama Hindi",
+        "description": "【Hindi Dubbed】The CEO's Hidden Past (Complete Season)। Chinese Drama Hindi - Mini Drama Hindi Welcome to another ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v3lA1zLULcM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v3lA1zLULcM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v3lA1zLULcM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mini Drama Hindi ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-12T12:31:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vMjAMYc2nsMbW0zBknHq__owqME",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ae3YSy2Ijco"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-10T10:30:07Z",
+        "channelId": "UCJaHaax1s0G2BTycmfw7vMw",
+        "title": "Forced to Seduce CEO,Poor Girl Made a Stunning Appearance at the Gala!He Fell for Her at First Sight",
+        "description": "For more wonderful vedios, please click： https://www.youtube.com/channel/UCJaHaax1s0G2BTycmfw7vMw/join Full English ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ae3YSy2Ijco/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ae3YSy2Ijco/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ae3YSy2Ijco/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": " LiLi Drama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-10T10:30:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9WvjHBoXaUwzMLpgAjUhSWWkniw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kUr0xCco-Do"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-11T11:01:12Z",
+        "channelId": "UCkHXShXLFdKd3FnK11-_i2Q",
+        "title": "💕A kind girl accidentally saved the vampire CEO,didn&#39;t expect that he would fall in love with her！",
+        "description": "Hello, this is Bliss Drama   the most popular hit short drama on the whole network is here! Regular updates every day, don't ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kUr0xCco-Do/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kUr0xCco-Do/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kUr0xCco-Do/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bliss Drama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-11T11:01:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ugUcU9Qw2qCJL-rEUkhLuDc7d3A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zh2f5CPz-hQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-04T12:31:19Z",
+        "channelId": "UCCZf_wsrjH20YqIfnSEbFgg",
+        "title": "【ENG SUB】Forced To Marry A DEAD Man Of... But My CEO Husband Is Alive And Spoils Me Rotten!#drama",
+        "description": "Hello, this is Pulse Drama Hub   Here, you can find the latest, hottest and sweetest skits~ /@DramaCentral-tv Updated ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zh2f5CPz-hQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zh2f5CPz-hQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zh2f5CPz-hQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pulse Drama Hub",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-04T12:31:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z2LKTFnA0B7JVG7sgOTidKLoe8w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Yhx99mMxI7A"
+      },
+      "snippet": {
+        "publishedAt": "2025-05-19T06:30:30Z",
+        "channelId": "UCOQ80RerlwGPd1v5UMm63DA",
+        "title": "Married to a Gangster | Full Chinese Short Drama (1Hour 47Min) #shortseries",
+        "description": "Title: Married to a Gangster | Full Chinese Short Drama | Romance, Action, Betrayal Description: Get ready for an intense ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yhx99mMxI7A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yhx99mMxI7A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yhx99mMxI7A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tim🎶",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-05-19T06:30:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w5au18kHn1meSbIPGNDOX2vXIbo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-HQDEesf3o4"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-18T09:07:33Z",
+        "channelId": "UCXzu9dHODOu_DirC6FMlN7w",
+        "title": "Divorce, My Happily Ever After Chinese Drama #dramabox",
+        "description": "romance #ceo #love #cdrama #revenge ▶️Download The Official App To Get The Next Part   ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-HQDEesf3o4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-HQDEesf3o4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-HQDEesf3o4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Drama Flicks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-18T09:07:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MpwuVfbBTnPtzWS27f11YSbpGOw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2ojBpI5MDno"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-16T12:30:08Z",
+        "channelId": "UCOk08YPK5JWBOifY5y7MXMQ",
+        "title": "【Hindi Dubbed】The Hero Is A Little Devil (Part 1) । Chinese Drama Hindi - Mini Drama Hindi",
+        "description": "【Hindi Dubbed】The Hero Is A Little Devil Part 1 । Chinese Drama Hindi - Mini Drama Hindi Welcome to another exciting ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2ojBpI5MDno/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2ojBpI5MDno/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2ojBpI5MDno/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mini Drama Hindi ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-16T12:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kpfphql99XP2mMp8GXeaAT5M9J4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jfboMq1qUVw"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-01T03:00:48Z",
+        "channelId": "UCRHYmKJZC1Bn1lJXGuLOC4g",
+        "title": "[ENG  SUB] Silent Summer Love | Full #cdrama #mustwatch",
+        "description": "Subscribe and enjoy the best of C-Dramas, one episode at a time! Welcome to ShortDramaTime! Your go-to spot for the best ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jfboMq1qUVw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jfboMq1qUVw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jfboMq1qUVw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DramaTime",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-01T03:00:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ak0TLyglbYjuOgaPmFyAhR6_v9k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2UjU4EAVHaU"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-17T17:00:06Z",
+        "channelId": "UCRHYmKJZC1Bn1lJXGuLOC4g",
+        "title": "[ENG SUB] Never Again in This Life | FULL #Minidrama #cdrama",
+        "description": "Subscribe and enjoy the best of C-Dramas, one episode at a time! Welcome to ShortDramaTime! Your go-to spot for the best ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2UjU4EAVHaU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2UjU4EAVHaU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2UjU4EAVHaU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DramaTime",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-17T17:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "azTZwvnl3B3xXEpwLIsh04n_2wM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "frAOPtES2Ms"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-20T07:00:40Z",
+        "channelId": "UC12kGfpmvTXLFfXVkrXlYtA",
+        "title": "👰Trying Wedding Dress, Cinderella Meets Drugged CEO! Saves Him, Gets Stuck with Him【ENG DUB】",
+        "description": "Subscribe now for more new Chinese short dramas with Eng Sub: https://shorturl.at/ccZwb ▷▷More Free Dramas: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/frAOPtES2Ms/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/frAOPtES2Ms/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/frAOPtES2Ms/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CDrama English",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-20T07:00:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2Tub3hDJgj_K9q0G1QzLG6Ikz5E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cypNVkj_1lE"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-17T01:00:42Z",
+        "channelId": "UCRHYmKJZC1Bn1lJXGuLOC4g",
+        "title": "[ENG  SUB] She Thought Marriage Meant Forever… Until It Turned to Ashes | Full #cdrama #mustwatch",
+        "description": "Subscribe and enjoy the best of C-Dramas, one episode at a time! Welcome to ShortDramaTime! Your go-to spot for the best ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cypNVkj_1lE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cypNVkj_1lE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cypNVkj_1lE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DramaTime",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-17T01:00:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VMcr5oHfaRF9F_YYCQKrGMkQgJ0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4VmwOI9--ro"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-27T12:30:06Z",
+        "channelId": "UCOk08YPK5JWBOifY5y7MXMQ",
+        "title": "【Hindi Dubbed】The Hero Is A Little Devil Part 2। Chinese Drama Hindi । Mini Drama Hindi",
+        "description": "【Hindi Dubbed】The Hero Is A Little Devil Part 2 । Chinese Drama Hindi - Mini Drama Hindi Welcome to another exciting ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4VmwOI9--ro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4VmwOI9--ro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4VmwOI9--ro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mini Drama Hindi ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-27T12:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jHlzSxE0MpEFuzUMLZ6iCXlWs4U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JrMtmhYuQ-k"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-21T19:08:10Z",
+        "channelId": "UCqBh1Tojm8obz5C1mlK0vxw",
+        "title": "(Hindi Dubbed) Amar Yogi 3000 | part1 ImmortalYogi Hindi Drama | Chinese Mini Drama inHindi",
+        "description": "(Hindi Dubbed) Amar Yogi 3000 | part1 ImmortalYogi Hindi Drama | Chinese Mini Drama inHindi Dubbed Series, Amar Yogi ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JrMtmhYuQ-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JrMtmhYuQ-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JrMtmhYuQ-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "mini cdrama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-21T19:08:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a0IZrX4vBi959ARC8Pvt3BNTGpM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wgKZmp0Vq4k"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-18T09:25:12Z",
+        "channelId": "UCPir05eOKwEjt-h0zOKsCXw",
+        "title": "The country scholar who conquered the capital Chinese short series #shortdrama #thecountryscholar ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wgKZmp0Vq4k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wgKZmp0Vq4k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wgKZmp0Vq4k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "shortdrama ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-18T09:25:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mh8eIQJDVwP4gV3ZojEFGNxnJRk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pBLOo75Q2Tg"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-13T16:36:12Z",
+        "channelId": "UCOQ80RerlwGPd1v5UMm63DA",
+        "title": "let&#39;s Love Again Renewing Our Vow&#39;s Chinese series Full short series #Reelshort",
+        "description": "NOT MY VIDEO I DON'T KNOW ABOUT THE CREATOR BUT NOT MY VIDEO.... LET'S LOVE AGAIN RENEWING OUR VOW'S ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pBLOo75Q2Tg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pBLOo75Q2Tg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pBLOo75Q2Tg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tim🎶",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-13T16:36:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xdaV0H8u5WRw0M_ppatASh7tsAg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LMJnO_ndNlY"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-01T17:24:50Z",
+        "channelId": "UCWSl8C-j1xErI31Yh_BOyVw",
+        "title": "【Hindi Dubbed】Krodhagni | The Nine Heaven | Complete Series | All Episodes | Chinese Drama in Hindi",
+        "description": "Krodhagni (The Nine Heaven – Part 1 Hindi Dubbed) Ek aisi duniya jahan krodh ki aag aur swarg ki shakti ke beech shuru hoti ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LMJnO_ndNlY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LMJnO_ndNlY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LMJnO_ndNlY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mysterious Tales Hindi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-01T17:24:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8Tjjv554hdgfh45L4KTZjNHewSI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6D7MxwZawX8"
+      },
+      "snippet": {
+        "publishedAt": "2025-07-24T06:00:06Z",
+        "channelId": "UCOQ80RerlwGPd1v5UMm63DA",
+        "title": "💔 A Sin Behind the Smile | Chinese Short Series | Hidden Betrayals &amp; Silent Love 💔 #shortseries",
+        "description": "Description Dive into the emotional depths of “A Sin Behind the Smile” – a gripping Chinese short series that unravels the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6D7MxwZawX8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6D7MxwZawX8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6D7MxwZawX8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tim🎶",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-07-24T06:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KDrnHgOuZqbNFTVQHGA4GMmBlvI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hX3FqcSPFhE"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-18T07:44:41Z",
+        "channelId": "UC8QhxdjRQEjQX_sDu3VZpkw",
+        "title": "Girl saved the CEO #trending #Chinese short series",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hX3FqcSPFhE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hX3FqcSPFhE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hX3FqcSPFhE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chinesedrama5",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-18T07:44:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CbUlwVH01ewQ6Tb-fjFEPDd5kBY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x_TBV7UaQE0"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-15T06:44:31Z",
+        "channelId": "UC8QhxdjRQEjQX_sDu3VZpkw",
+        "title": "Chinese short series",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x_TBV7UaQE0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x_TBV7UaQE0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x_TBV7UaQE0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chinesedrama5",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-15T06:44:31Z"
+      }
+    }
+  ]
+}
