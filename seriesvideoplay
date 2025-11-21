@@ -1,0 +1,105 @@
+{
+  "playlists": [
+    {
+      "id": "playlist1",
+      "title": "The Warrior Season 1",
+      "playlistId": "PL_xxxxxxxx1",
+      "thumbnail": "https://i.ytimg.com/vi/VIDEOID1/maxresdefault.jpg",
+      "videos": [
+        { "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+{ "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+{ "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+{ "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+{ "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+        
+      ]
+    },
+    {
+      "id": "playlist2",
+      "title": "The Warrior Season 2",
+      "playlistId": "PL_xxxxxxxx2",
+      "thumbnail": "https://i.ytimg.com/vi/VIDEOID2/maxresdefault.jpg",
+      "videos": [
+        { "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+{ "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+{ "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+{ "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+{ "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+      ]
+    },
+
+    {
+      "id": "playlist3",
+      "title": "Series 3",
+      "playlistId": "PL_xxxxxxxx3",
+      "thumbnail": "https://i.ytimg.com/vi/VIDEOID3/maxresdefault.jpg",
+      "videos": [ { "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+{ "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+{ "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+{ "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+{ "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+]
+    },
+
+    {
+      "id": "playlist4",
+      "title": "Series 4",
+      "playlistId": "PL_xxxxxxxx4",
+      "thumbnail": "https://i.ytimg.com/vi/VIDEOID4/maxresdefault.jpg",
+      "videos": [ /* 10 videos */ ]
+    },
+
+    {
+      "id": "playlist5",
+      "title": "Series 5",
+      "playlistId": "PL_xxxxxxxx5",
+      "thumbnail": "https://i.ytimg.com/vi/VIDEOID5/maxresdefault.jpg",
+      "videos": [ 
+{ "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+{ "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+{ "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+{ "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+{ "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+]
+    },
+
+    {
+      "id": "playlist6",
+      "title": "Series 6",
+      "playlistId": "PL_xxxxxxxx6",
+      "thumbnail": "https://i.ytimg.com/vi/VIDEOID6/maxresdefault.jpg",
+      "videos": [
+{ "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+{ "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+{ "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+{ "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+{ "videoId": "AAA111", "title": "Episode 1", "thumbnail": "https://i.ytimg.com/vi/AAA111/hqdefault.jpg" },
+        { "videoId": "BBB222", "title": "Episode 2", "thumbnail": "https://i.ytimg.com/vi/BBB222/hqdefault.jpg" }
+]
+    }
+  ]
+}
